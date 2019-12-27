@@ -1,10 +1,10 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "description": "<p>I am a physics and math student. I mostly think about physics, math, film, academia, and philosophy.</p>",
+  "cta": "<p></p>",
   "contact": {
     "email": "zchusre@gmail.com",
     "twitter_handle": "zchvsre",
     "github_handle": "zchvsre"
   },
-  "background_color": "#B1BCBC"
+  "background_color": "#000000"
 }
