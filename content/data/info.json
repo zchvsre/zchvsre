@@ -1,10 +1,10 @@
 {
   "description": "<p>I am a physics and math student. I mostly think about physics, math, film, academia, and philosophy.</p>",
-  "cta": "<p></p>",
+  "cta": "<p>This site is build with <a href=\"https://github.com/kendallstrautman/brevifolia-gatsby-forestry\">brevifolia</a> theme.</p>",
   "contact": {
     "email": "zchusre@gmail.com",
     "twitter_handle": "zchvsre",
     "github_handle": "zchvsre"
   },
-  "background_color": "#000000"
+  "background_color": "#7a7a7a"
 }

@@ -6,6 +6,7 @@ export default function useSiteMetadata() {
       site {
         siteMetadata {
           title
+          subtitle
           description
           repoUrl
           infoData {

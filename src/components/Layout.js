@@ -5,11 +5,10 @@ import useSiteMetadata from "../static_queries/useSiteMetadata"
 import layoutStyles from "../styles/components/layout.module.scss"
 
 export default function Layout(props) {
-  const { title, description } = useSiteMetadata()
+  const { title, subtitle, description } = useSiteMetadata()
   return (
     <section
-      className={`${layoutStyles.layout} ${
-        props.page === "info" && 
+      className={`${layoutStyles.layout} ${props.page === "info" &&
         layoutStyles.info_page}`}
       style={{
         backgroundColor: props.bgColor,
@@ -20,7 +19,7 @@ export default function Layout(props) {
         <title>{title}</title>
         <meta name="description" content={description} />
       </Helmet>
-      <Header page={props.page} title={title} />
+      <Header page={props.page} title={title} subtitle={subtitle} />
       <div className={layoutStyles.content}>{props.children}</div>
     </section>
   )

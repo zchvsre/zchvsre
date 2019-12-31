@@ -11,9 +11,10 @@ export default function useBlogData() {
               date(formatString: "MMMM Do, YYYY")
               author
               title
+              excerpt
               hero_image {
                 childImageSharp {
-                  fluid( maxWidth: 800 ) {
+                  fluid(maxWidth: 800) {
                     ...GatsbyImageSharpFluid
                   }
                 }
