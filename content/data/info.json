@@ -1,5 +1,6 @@
 {
-  "description": "<p>I am a physics and math student. I mostly think about physics, math, film, academia, and philosophy.</p>",
+  "description": "<p>I am a physics and math student. I mostly think about physics, math, film, academia, and philosophy. My interest in physics is in cosmology particularly weak lensing. I am attracted to geometry and analysis but struggle with algebra. I watch anglophone, francophone, and East Asian films. I am about to be a graduate student. </p>",
+
   "cta": "<p>This site is build with <a href=\"https://github.com/kendallstrautman/brevifolia-gatsby-forestry\">brevifolia</a> theme.</p>",
   "contact": {
     "email": "zchusre@gmail.com",
